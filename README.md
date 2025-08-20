@@ -14,17 +14,17 @@ This project uses neural networks to analyze and predict sea level rise (GMSL) b
 
 To run the notebooks and scripts of this project, you need to set up a Python environment and install the required dependencies.
 
-### 1. Clone the repository (if hosted on GitHub):
+### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone ...
+cd ...
 ```
 2. Create a virtual environment:
 It is highly recommended to use a virtual environment to manage project dependencies and avoid conflicts.
 
 ```bash
-python -m venv my-new-env
+python -m venv env_fml
 ```
 3. Activate the virtual environment:
 On Windows:
@@ -35,7 +35,7 @@ On macOS/Linux:
 ```
 
 ```bash
-source my-new-env/bin/activate
+source env_fml/bin/activate
 ```
 
 4. Install dependencies:
