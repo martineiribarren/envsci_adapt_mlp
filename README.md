@@ -64,3 +64,5 @@ Then, open and run the notebooks in the following order from the notebooks/ fold
 02_model_analysis.ipynb: Loads saved models and evaluates their performance, comparing predictions against actual data.
 
 03_future_scenario_analysis.ipynb: Uses trained models to predict sea level rise under different future emissions scenarios.
+
+For the merged version in a single notebook, open compiled_notebook.ipynb
